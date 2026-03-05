@@ -22,7 +22,7 @@ This repository implements a maximal clique enumeration algorithm in C++, optimi
 
 ## Build Instructions
 
--git clone https://shiz7.github.io/Group-19_DAA-assignment-1/
+-git clone https://shiz7.github.io/Clique-Enumeration-Algos-Application/
 
 -cd maximal-clique-enumeration
 
@@ -184,21 +184,3 @@ Special thanks to the contributors of open-source graph datasets used for testin
 
 
 
-
-## Group Members:
-(Group 19)
-
-Shivansh Shanker Gupta	
-2022A7PS0047H (Report , Webpage & Q3)
-
-Sidharth Saxena	
-2021B4A72488H (Q1,3)
-
-T.Sai Sathwik
-2020B4A71567H (Q1,Q3)
-
-G Sri Vishwahitha	
-2022A7PS0041H (Q2)
-	
-Snigdha Kaipa	(Generating Histograms)
-2022A7PS2014H
